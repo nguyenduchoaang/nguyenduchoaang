@@ -16,7 +16,7 @@
 
 <p>- 🌱 I’m currently learning <strong>Javascripts, C#</strong></p>
 <p>- 👨‍💻 All of my projects are available at <a href="https://portfolio-ndh.netlify.app/">portfolio_duchoaang</a></p>
-<p>- 📫 How to reach me <strong>duchoaang.dev@gmail.com</strong></p>
+<p>- 📫 Contact me via <strong>duchoaang.dev@gmail.com</strong></p>
 
 
 
