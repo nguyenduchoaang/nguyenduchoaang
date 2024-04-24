@@ -44,7 +44,6 @@
 <h2 align="left" target="blank">Backend Development</h2>
 
 ![.NETCORE](https://img.shields.io/badge/-.NET%206.0-blueviolet)
-![SQLServer](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
