@@ -48,7 +48,9 @@
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a href="https://fb.com/https://www.facebook.com/d8.ndh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/d8.ndh/" height="30" width="40" /></a>
+   
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nguyen-duc-hoang-1817082b6/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
   </div>
 
